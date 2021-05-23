@@ -1,13 +1,9 @@
 ### Hi there, I'm - [Akash Singh Kushwaha][website] 👋
 
-<br />
-
 ## I'm a Software Engineer - [JavaScript/React.JS Developer][resume]⚡
 
 - 🌱 I’m currently working on JavaScript & its framework/library
 - ⚡ Fun fact: I love to watch anime.
-
-<br />
 
 ### Connect with me:
 
