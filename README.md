@@ -41,7 +41,7 @@
 
 </details>
 
-[resume]: https://drive.google.com/file/d/1jVoAVZnMxwn61XZibRro3pvrtmECFMKL/view?usp=sharing/
-[website]: https://festive-noyce-6c7a15.netlify.app/
+[resume]: https://drive.google.com/file/d/1s161mFGgSeE5GNv2dhRUSaDiLMKR6wOd/view?usp=sharing
+[website]: https://portfolioakash.vercel.app/
 [twitter]: https://twitter.com/knight_Akash_
 [linkedin]: https://www.linkedin.com/in/akash-kushwaha-721058143/
